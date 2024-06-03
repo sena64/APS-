@@ -1,3 +1,8 @@
+//PROGRAMAÇÃO JAVASCRIPT
+//963R
+//Lucas de Sena Silva Bezerro 2024100028
+
+
 // Função que verifica se um número é primo
 function isPrime(num) {
     // Números menores ou iguais a 1 não são primos
